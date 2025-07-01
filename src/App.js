@@ -24,7 +24,7 @@ function App() {
         <div className="descricao">
           <p>Sou front-end jornalista ou jornalista front-end, como queira. Gosto de atuar em projetos que possam combinar informação, design e programação. Além do jornalismo, trabalhei nos setores financeiro, publicitário e consultoria.</p>
           <p>Clique nos cards abaixo para conhecer os meus trabalhos publicados. Adicionei um ícone <FontAwesomeIcon size="1x" alt="ícone de premiação" icon={faAward}
-            /> nos itens que tive reconhecimento em alguma premiação. É possível que alguns links estejam disponíveis apenas para assinantes do Estadão. Também tenho o <a href="./Currículo-Mariana-Cunha-(front-end).pdf" target="_blank" rel="noopener noreferrer">currículo em PDF</a>, se precisar. 
+            /> nos itens que tive reconhecimento em alguma premiação. É possível que alguns links estejam disponíveis apenas para assinantes do Estadão. Também tenho o <a href="./curriculo-2025.pdf" target="_blank" rel="noopener noreferrer">currículo em PDF</a>, se precisar. 
           </p>
         </div>
       </section>
