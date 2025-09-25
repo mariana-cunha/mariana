@@ -15,7 +15,7 @@ function App() {
           />
           <div>
             <h1>Mariana Cunha</h1>
-            <p>front-end developer, jornalista</p>
+            <p>developer, jornalista</p>
             <div className="redes-sociais">
               <a href="mailto:mari.marques26@gmail.com"><i>mari.marques26@gmail.com</i></a>
               <a href="https://www.linkedin.com/in/mariana--cunha/" target="_blank" rel="noopener noreferrer"><i>linkedin</i></a>

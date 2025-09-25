@@ -32,6 +32,14 @@ export const tramposData = [
     hashtags: "#pauta #texto #animações #desenvolvimento"
   },
   {
+    what: "Dedo Duro - Espionagem em tempos de ditadura militar",
+    where: "TCC",
+    link: "https://drive.google.com/file/d/11SF7QyUYL6WxeXs8uiH5rwmezzko07f6/view?usp=sharing",
+    when: "2017",
+    awards: "",
+    hashtags: "#hq #jornalismo #roteiro #apuracao #revisão"
+  },
+  {
     what: "Layout desenvolvido para futuro site da org Tempo",
     where: "Tempo",
     link: "https://www.figma.com/file/bVCSZg0AmIqINiue0hFHC8/orgtempo?node-id=5%3A152&t=BqrMgdJO6B31MKop-1",
@@ -42,7 +50,7 @@ export const tramposData = [
   {
     what: "Layout desenvolvido para projeto do curso da TERA",
     where: "Projeto pessoal",
-    link: "https://www.figma.com/file/yOP27ebgFgsjpLZEs6QM11/Untitled?node-id=10%3A18&t=BqrMgdJO6B31MKop-1",
+    link: "https://www.figma.com/design/yOP27ebgFgsjpLZEs6QM11/Untitled?node-id=0-1&t=maM56TEK8J095lSq-1",
     when: "2022",
     awards: "",
     hashtags: "#figma #layout"
