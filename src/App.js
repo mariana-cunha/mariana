@@ -20,7 +20,7 @@ function App() {
               <a href="mailto:mari.marques26@gmail.com"><i>mari.marques26@gmail.com</i></a>
               <a href="https://www.linkedin.com/in/mariana--cunha/" target="_blank" rel="noopener noreferrer"><i>linkedin</i></a>
               <a href="https://github.com/mariana-cunha" target="_blank" rel="noopener noreferrer"><i>github</i></a>
-              <a href="./curriculo-2025.pdf" target="_blank" rel="noopener noreferrer"><i>cv</i></a>
+              <a href="./Mariana-Cunha-ddj.pdf" target="_blank" rel="noopener noreferrer"><i>cv</i></a>
             </div>
           </div>
         </div>
